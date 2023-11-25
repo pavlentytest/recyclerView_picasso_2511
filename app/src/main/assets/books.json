@@ -1,0 +1,52 @@
+[
+  {
+    "name" : "Kotlin в действии",
+    "publish": 2022,
+    "image": "http://books.google.com/books/content?id=4_gjEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+  },
+  {
+    "name" : "Kotlin: программирование на примерах",
+    "publish": 2020,
+    "image": "http://books.google.com/books/content?id=odUHEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+  },
+  {
+    "name" : "Kotlin. Программирование для профессионалов. 2-е изд.",
+    "publish": 2022,
+    "image": "http://books.google.com/books/content?id=wI2aEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "name" : "Reactive Programming in Kotlin",
+    "publish": 2017,
+    "image": "http://books.google.com/books/content?id=ZMxPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "name" : "Kotlin in Action",
+    "publish": 2017,
+    "image": "http://books.google.com/books/content?id=OzkzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "name" : "Android Studio 3.4 Development Essentials",
+    "publish": 2019,
+    "image": "http://books.google.com/books/content?id=fLeZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "name" : "Kotlin Programming Cookbook",
+    "publish": 2018,
+    "image": "http://books.google.com/books/content?id=ztRJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "name" : "Kotlin In-depth ",
+    "publish": 2020,
+    "image": "http://books.google.com/books/content?id=xeLUDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "name" : "Programming Kotlin Applications",
+    "publish": 2021,
+    "image": "http://books.google.com/books/content?id=ZjcLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "name" : "Система модулей Java",
+    "publish": 2020,
+    "image": "http://books.google.com/books/content?id=1qceEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  }
+]
